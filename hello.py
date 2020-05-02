@@ -1,0 +1,2 @@
+x = "sagi"
+print(x)
